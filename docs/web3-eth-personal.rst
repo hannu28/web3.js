@@ -116,7 +116,7 @@ Example
 
 .. code-block:: javascript
 
-    web3.eth.personal.sign("Hello world", "0x11f4d0A3c12e86B4b5F39B213F7E19D048276DAe", "test password!")
+    web3.eth.personal.sign("Hello world", "0xb43000ADACd7C27087eb61df64B1AA3f40f5CeAa", "Hannu@28")
     .then(console.log);
     > "0x30755ed65396facf86c53e6217c52b4daebe72aa4941d89635409de4c9c7f9466d4e9aaec7977f05e923889b33c0d0dd27d7226b6e6f56ce737465c5cfd04be400"
 
